@@ -1,6 +1,6 @@
 # FBX Processing Tool
 
-A python-bases tool for batch processing FBX assets. Built with PySide6, Python FBX SDK, the tool is designed to automate common asset pipeline tasks such as analysis, mesh extraction, batch export, renaming, and axis conversion.
+A python-based tool for batch processing FBX assets. Built with PySide6, Python FBX SDK, the tool is designed to automate common asset pipeline tasks such as analysis, mesh extraction, batch export, renaming, and axis conversion.
 
 
 ## Features
